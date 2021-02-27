@@ -69,4 +69,5 @@ gem 'rack-cors'
 
 gem 'active_model_serializers'
 
+#authorization
 gem "pundit"

@@ -12,7 +12,6 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true
-          key: 26790c8bfb947af3477f4729df178272d825f4e6
 
 
       - name: check files
