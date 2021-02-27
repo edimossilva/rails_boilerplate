@@ -17,6 +17,8 @@ jobs:
         with:
           bundler-cache: true
 
+      - name: bundle install --local
+        run: bundle install --local
 
       - name: check files
         run: ls vendor/bundle
