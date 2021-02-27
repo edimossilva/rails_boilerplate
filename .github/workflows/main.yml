@@ -15,7 +15,7 @@ jobs:
 
 
       - name: check files
-        run: ls vendor
+        run: ls vendor/bundle
 
       - name: start server
         run: docker-compose up -d
