@@ -24,6 +24,9 @@ jobs:
       - name: gem environment
         run: gem environment
 
+      - name: pwd
+        run: pwd
+
       - name: start server
         run: docker-compose up -d
 
