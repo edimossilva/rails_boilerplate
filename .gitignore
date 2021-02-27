@@ -32,3 +32,4 @@ coverage
 
 /vendor/*
 /bin
+.bundle/config

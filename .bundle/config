@@ -1,5 +1,1 @@
 ---
-BUNDLE_CACHE_PATH: "vendor/bundle"
-BUNDLE_PATH: "vendor/bundle"
-BUNDLE_CACHE_ALL: "true"
-BUNDLE_AUTO_INSTALL: "false"
